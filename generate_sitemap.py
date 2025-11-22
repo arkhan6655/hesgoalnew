@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 # Configuration
 API_URL = "https://topembed.pw/api.php?format=json"
-BASE_URL = "https://streameastv2.world" 
+BASE_URL = "https://hesgoal.guru" 
 SITEMAP_FILE = "sitemap.xml"
 
 # Static pages
