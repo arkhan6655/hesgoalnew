@@ -169,42 +169,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgyOTYwMF9VRkNfQWxleCBQZXJleiAtIEFzc3UgQWxtYWJheWV2</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgyOTYwMF9UZW5uaXNfRGFuaWVsIFNhbGF6YXIgLSBNYXR0ZW8gQ292YXRv</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgyOTYwMF9CYXNrZXRiYWxsX0hhcG9lbCBIYUVtZWsgLSBNYWNjYWJpIFJpc2hvbg==</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgyOTkwMF9CYWRtaW50b25fQW1hbGllIFNjaHVseiAtIEpvbyBFdW4gS2lt</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgyOTkwMF9EYXJ0c19EYW5ueSBOb3BwZXJ0IC0gTWFkYXJzIFJhem1h</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMDIwMF9Gb290YmFsbF9NYWRyaWQgQy4gVyAtIEVERiBMb2dyb25vIFc=</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMDgwMF9Gb290YmFsbF9BYXJhdSAtIE55b25uYWlz</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
@@ -847,6 +811,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9Bc3RlcmFzIFRyaXBvbGlzIC0gUGFuZXRvbGlrb3M=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9VRkNfQmVremF0IEFsbWFraGFuVGhlIFR1cmFuIFdhcnJpb3IgLSBBbGVrc2FuZHJlIFRvcHVyaWFFbCBDb25xdWlzdGFkb3I=</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
@@ -866,6 +836,18 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9CYXNrZXRiYWxsX0Nvcm9uYSBCcmFzb3YgLSBCQ00gUGl0ZXN0aQ==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9FaWJhciAtIFphcmFnb3ph</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9FaWJhciAtIFphcmFnb3ph</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -902,6 +884,18 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9MYWZheWV0dGUgLSBMZWhpZ2g=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9MZWdhbmVzIC0gQWxtZXJpYQ==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzMjYwMF9Gb290YmFsbF9MZWdhbmVzIC0gQWxtZXJpYQ==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2035,6 +2029,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzOTgwMF9Cb3hpbmdfQm94aW5nIDogSm9uIEZlcm5hbmRleiAtIEFybWFuZG8gQ2FzYW1vbmljYQ==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzOTgwMF9CYXNrZXRiYWxsX0JyaW5kaXNpIC0gQ2VudG8=</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
@@ -2048,12 +2048,6 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzOTgwMF9CYXNrZXRiYWxsX0RlbCBGZXMgQXZlbGxpbm8gLSBSaW1pbmk=</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2MzgzOTgwMF9Cb3hpbmdfSm9uIEZlcm5hbmRleiAtIEFybWFuZG8gQ2FzYW1vbmljYQ==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2102,6 +2096,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MDEwMF9SdWdieSBVbmlvbl9MaW5kZW53b29kIC0gSGFydmFyZA==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MDQwMF9UZW5uaXNfVi5BYm9pYW4vVC5GYXJqYXQgLSBBLkUuQ3VlbGxhciBMb3JiZXJnL0wuU3VhcmV6</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2167,12 +2167,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9DQSBMYW51cyAtIEF0bGV0aWNvIE1H</loc>
-    <lastmod>2025-11-22</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9JY2UgSG9ja2V5X0NsYXJrc29uIC0gWWFsZQ==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
@@ -2180,6 +2174,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX0Vhc3Rlcm4gS2VudHVja3kgLSBNZXJjZXI=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX0Zsb3JpZGEgQXRsYW50aWMgLSBDb25uZWN0aWN1dA==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2209,13 +2209,25 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9IZXJhY2xlcyBBbG1lbG8gLSBHbyBBaGVhZCBFYWdsZXM=</loc>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9HcmFuYWRhIENGIC0gQ29yZG9iYQ==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9IZXJhY2xlcyAtIEdvIEFoZWFkIEVhZ2xlcw==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9SdWdieSBVbmlvbl9JdGFseSAtIENoaWxl</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9MYW51cyAtIEF0bGV0aWNvLU1H</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2228,6 +2240,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9Mb3Vpc2lhbmEgVGVjaCAtIExpYmVydHk=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX0xvdWlzaWFuYSBUZWNoIC0gTGliZXJ0eSBGbGFtZXM=</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2270,6 +2288,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9NaWRkbGUgVGVubmVzc2VlIC0gU2FtIEhvdXN0b24=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX01pZGRsZSBUZW5uZXNzZWUgU3QgU2FtIC0gSG91c3RvbiBTdGF0ZQ==</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -2383,6 +2407,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX1VBQiAtIFNvdXRoIEZsb3JpZGE=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX1VJQyAtIExveW9sYSBDaGljYWdv</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
@@ -2402,6 +2432,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9Gb290YmFsbF9VVEVQIC0gTmV3IE1leGljbyBTdGF0ZQ==</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg0MTYwMF9CYXNrZXRiYWxsX1VURVAgLSBOZXcgTWV4aWNvIFN0YXRl</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -3866,6 +3902,12 @@
   </url>
   <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg4MTIwMF9Gb290YmFsbF9FYXN0IEJlbmdhbCBXIC0gTmFzYWYgUWFyc2hpIFc=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2Mzg4MzAwMF9UZW5uaXNfRGF2aWQgU2Nod2FyYyAtIFZpdGVrIEhvcmFr</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
@@ -5497,7 +5539,25 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2NDA5NjMwMF9JY2UgSG9ja2V5X0JpZWwgQmllbm5lIC0gS2xvdGVu</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hesgoal.guru/Matchinformation/?id=MTc2NDA5NjMwMF9JY2UgSG9ja2V5X0Rhdm9zIC0gQWpvaWU=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2NDA5NjMwMF9JY2UgSG9ja2V5X0Rhdm9zIC0gQWpvaWU=</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hesgoal.guru/Matchinformation/?id=MTc2NDA5NjMwMF9JY2UgSG9ja2V5X0ZyaWJvdXJnIEdvdHRlcm9uIC0gR2VuZXZlIFNlcnZldHRl</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
