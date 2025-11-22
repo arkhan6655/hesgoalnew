@@ -163,10 +163,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updatePageMeta() {
     const sportName = state.sport === 'all' ? 'Full Sports' : state.sport.charAt(0).toUpperCase() + state.sport.slice(1);
-    const title = `Streameast V2 ${sportName} Schedule`;
+    const title = `Hesgoal ${sportName} Schedule`;
     pageTitle.textContent = title;
     pageHeading.textContent = title;
-    pageDescription.textContent = `See the ${sportName} schedule on streameast V2 and find your favorite match.`;
+    pageDescription.textContent = `See the ${sportName} schedule on Hesgoal and find your favorite match.`;
   }
   
   function updateActiveButtons() {
@@ -277,3 +277,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   initializePage();
 });
+
